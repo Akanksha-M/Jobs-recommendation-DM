@@ -1,0 +1,41 @@
+Index,Company_Name,Job_Title,Location,Job_Salary,Years_of_Experience
+0,Amazon,Software Development Manager,Hyderabad,Rs 1000000,5
+1,Amazon,Software Development Manager,Pune,Rs 560000,5
+2,Amazon,Software Development Engineer,Hyderabad,Rs 240000,3
+3,Amazon,Software Development Engineer,Hyderabad,Rs 150000,2
+4,Amazon,Software Development Engineer,Gurgaon,Rs 200000,2
+5,Amazon,Software Development Manager,Hyderabad,Rs 640000,5
+6,Amazon,Software Development Manager,Bangalore,Rs 810000,5
+7,Amazon,"Sr. Manager, Software Dev",Chennai,Rs 1200000,8
+8,Amazon,Software Development Engineer,Hyderabad,Rs 220000,5
+9,Amazon,Software Development Engineer,Hyderabad,Rs 180000,5
+10,Curefit,Product Manager,Bangalore,Rs 200000,3
+11,Curefit,Product Manager,Bangalore,Rs 250000,3
+12,Curefit,Product Manager,Bangalore,Rs 280000,3
+13,Curefit,App Developer,Bangalore,Rs 810000,2
+14,Curefit,Frontend Engineer,Bangalore,Rs 240000,2
+15,Curefit,Backend Engineer,Bangalore,Rs 240000,2
+16,Curefit,Full Stack Engineer,Bangalore,Rs 2030000,3
+17,Myntra,Data Analyst,Bangalore,Rs 1404000,2
+18,Myntra,Software Development Manager,Bangalore,Rs 2400000,5
+19,Myntra,Sr. Software Development Manager,Mumbai,Rs 5600000,8
+20,Myntra,Data Analyst,Gurgaon,Rs 1090000,2
+21,Myntra,Business Analytics,Bangalore,rs 1820000,3
+22,Myntra,Data Scientist,Mumbai,Rs 2300000,2
+23,Myntra,Business Analytics,Bangalore,Rs 2000000,3
+24,Ather Energy,Full Stack Engineer,Bangalore,Rs 1200000,3
+25,Ather Energy,Full Stack Engineer,Bangalore,Rs 1440000,5
+26,Ather Energy,Data Privacy and Security Head,Bangalore,Rs 920000,8
+27,Ather Energy,Should Cost Engineer,Bangalore,Rs 1634000,8
+28,Ather Energy,Customer Service Executive,Bangalore,Rs 400000,3
+29,Ather Energy,PCB Layout Engineer,Bangalore,Rs 1423000,5
+30,Ather Energy,Product Specialist,Chennai,Rs 620000,8
+31,Rapido,Data Analyst,Anywhere,Rs 540000,3
+32,Rapido,Data Scientist,Bangalore,Rs 1200000,5
+33,Rapido,Data Scientist,Bangalore,Rs 800000,5
+34,Rapido,Senior Backend Developer,Bangalore,Rs 1200000,5
+35,Rapido,Operations,Bangalore,Rs 640000,3
+36,Rapido,Operations,Bangalore,Rs 720000,3
+37,Rapido,Brand Manager,Bangalore,Rs 890000,4
+38,Rapido,Deputy Manager,Bangalore,Rs 760000,5
+39,Rapido,Digital Marketing Specialist,Anywhere,Rs 420000,2
