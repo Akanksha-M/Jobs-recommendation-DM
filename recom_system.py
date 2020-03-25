@@ -63,7 +63,7 @@ sorted_similar_jobs = sorted(similar_jobs,key=lambda x:x[1],reverse=True)
 
 #printing the list of similar movies
 i=0
-#print("Top 5 similar jobs to "+req_title+" are:\n")
+print("Top 5 similar jobs to "+req_title+" are:\n")
 for job in sorted_similar_jobs:
     print(get_job_from_index(job[0]))
     i=i+1
